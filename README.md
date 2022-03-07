@@ -16,7 +16,7 @@
 
 - [Qiita](https://qiita.com/taigamur)
 
-## Product
+## Applications
 - [ShareGroumet](https://share-gourmet.com) (2021) (個人)
     
     フォローしている人に限定した飲食店の口コミ共有サービス
