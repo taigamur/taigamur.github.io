@@ -16,7 +16,7 @@
 - [Qiita](https://qiita.com/taigamur)
 
 ## Work Experience
-- アルバイト, ユニバ株式会社: 202/06 - 現在
+- アルバイト, ユニバ株式会社: 2022/06 - 現在
 
 ## Application
 - ShareGroumet (2021) (個人)
