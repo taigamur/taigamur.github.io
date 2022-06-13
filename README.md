@@ -21,11 +21,11 @@
 ## Application
 - ShareGroumet (2021) (個人)
     
-    フォローしている人に限定した飲食店の口コミ共有サービス [GitHub](https://github.com/taigamur/ShareGroumet)
+    フォローしている人に限定した飲食店の口コミ共有サービス ([GitHub](https://github.com/taigamur/ShareGroumet))
 
 - TechBookCareer (2022) (個人)
 
-    エンジニアのための技術書レビューアプリケーション [GitHub](https://github.com/taigamur/TechBook)
+    エンジニアのための技術書レビューアプリケーション ([GitHub](https://github.com/taigamur/TechBook))
 
 - [つくば市周辺のラーメン店の記録・提案を行うアプリケーション](https://tsukuba-ramen-suggest.com/) (2022) (個人)
 
