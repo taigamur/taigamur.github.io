@@ -9,12 +9,14 @@
 - 知能ロボット研究室所属　
 
 ## Account
-
 - [GitHub](https://github.com/taigamur)
 
 - [AtCoder](https://atcoder.jp/users/ttai)
 
 - [Qiita](https://qiita.com/taigamur)
+
+## Work Experience
+- アルバイト, ユニバ株式会社: 2021/06 - 現在
 
 ## Application
 - ShareGroumet (2021) (個人)
